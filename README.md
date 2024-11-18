@@ -1,7 +1,7 @@
 # Installation
 ```
 # Clone the repository to your computer
-git clone https://github.com/ondrejhonus/kube_project_docker
+
 
 # Enter the directory
 cd kube_project_docker
